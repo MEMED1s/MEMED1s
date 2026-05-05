@@ -30,8 +30,8 @@
 ```python
 class Memed:
     role        = "Cybersecurity Engineering Student"
-    focus       = ["Blue Team", "Web Pentesting", "SOAR Automation", "Threat Detection"]
-    tools       = ["Burp Suite", "MITRE CALDERA", "Suricata", "Shuffle", "Wireshark"]
+    focus       = ["Blue Team", "SOAR Automation", "Threat Detection"]
+    tools       = ["Burp Suite", "MITRE CALDERA", "Suricata", "Shuffle", "Wireshark","Wazuh"]
     mindset     = "Break it. Understand it. Defend it."
     status      = "🔍 Actively hunting an internship opportunity"
     fun_fact    = "The attacker only needs to succeed once. I need to succeed every time."
