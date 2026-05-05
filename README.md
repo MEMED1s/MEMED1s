@@ -240,16 +240,14 @@ class Memed:
 
 <div align="center">
 
-<!-- TryHackMe card — rendered via their official card service -->
-<a href="https://tryhackme.com/p/Memed1s" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Memed1s.png" alt="TryHackMe Profile – Memed1s" style="max-width:100%; border-radius:8px;" />
-</a>
-
-<br><br>
-
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Memed1s-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Memed1s)
 
-*Grinding rooms across Web Exploitation · SOC · Network Security · Linux*
+> 🎯 Active on TryHackMe — grinding SOC, Web Exploitation & Network Security rooms
+
+| 🔗 Profile | [tryhackme.com/p/Memed1s](https://tryhackme.com/p/Memed1s) |
+|:---:|:---|
+| 🛤️ Current Path | SOC Level 1 |
+| 🎯 Focus Areas | Web Exploitation · Linux · Network Security |
 
 </div>
 
