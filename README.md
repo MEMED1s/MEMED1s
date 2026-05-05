@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB000&height=200&section=header&text=Memed&fontSize=80&fontColor=0d1117&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20Engineer%20in%20the%20Making&descAlignY=58&descSize=18&descColor=0d1117" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB000&height=200&section=header&text=Memed1s&fontSize=80&fontColor=0d1117&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20Engineer%20in%20the%20Making&descAlignY=58&descSize=18&descColor=0d1117" width="100%"/>
 
 </div>
 
@@ -28,7 +28,7 @@
 ## `> whoami`
 
 ```python
-class Memed:
+class Memed1s:
     role        = "Cybersecurity Engineering Student"
     focus       = ["Blue Team", "SOAR Automation", "Threat Detection"]
     tools       = ["Burp Suite", "MITRE CALDERA", "Suricata", "Shuffle", "Wireshark","Wazuh"]
